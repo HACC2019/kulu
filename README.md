@@ -1,2 +1,2 @@
 # kulu
-Implementation of content management portal and tools that maximizes business efficiency. Challenge picks: 1.) HGIA loan application 2.) DOE curriculum database.
+Implementation of content management portal and tools that maximizes business efficiency for the HGIA Green Energy Money Saver (GEMS) loan application
